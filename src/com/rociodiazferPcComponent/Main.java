@@ -1,4 +1,4 @@
-package com.rociodiazfer.pccomponentes;
+package com.rociodiazferPcComponent;
 
 public class Main {
     public static void main(String[] args) {
